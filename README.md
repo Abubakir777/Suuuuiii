@@ -8,13 +8,15 @@ using namespace std;
 main()
 {
     char op;
-    float num1, num2;
+    float num1, num m jsjfsofs;
   
     // It allows user to enter operator i.e. +, -, *, /
     cin >> op;
   
     // It allow user to enter the operands
     cin >> num1 >> num2;
+  //main character is dead 
+ 
   
     // Switch statement begins
     switch (op) {
@@ -33,7 +35,8 @@ main()
         case '*':
             cout << num1 * num2;
             break;
-          
+  
+ ya uzhe ustal ot urokov        
         // If user enter /
         case '/':
             cout << num1 / num2;
